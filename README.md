@@ -1,4 +1,4 @@
-# Student-Drug-Addiction-Prediction
+# Student-Drug-Addiction-Prediction - CatBoost-RF-LR
 Student Drug Addiction Prediction using Clinical and Behavioral Patterns- Accuracy 98 % - CatBoost
 # Dataset Details
 Total Number of Train Records = 75,000<br>

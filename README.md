@@ -10,8 +10,6 @@ Click the Option, Open in Colab-->Inside Colab click Run All-->Go to Single Inpu
 
 The user can click all the other options Load Data, EDA Analysis.....<br>
 
-<a href="https://colab.research.google.com/github/sebmca/Student-Drug-Addiction-Prediction
-/blob/main/Drug_Addiction_GITHUB.ipynb" target="_parent">
-  
+<a href="https://colab.research.google.com/github/sebmca/Student-Drug-Addiction-Prediction/blob/main/Drug_Addiction_GITHUB.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>

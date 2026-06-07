@@ -12,6 +12,7 @@ Then wait One or Two minutes till you get the Dashboard
 The user can click all the other options Load Data, EDA Analysis.....<br>
 
 <a href="https://colab.research.google.com/github/sebmca/Student-Drug-Addiction-Prediction/blob/main/Drug_Addiction_GITHUB.ipynb" target="_parent">
-  title="Click here RUN the notebook in Google Colab"/>
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  
+  <img src="https://colab.research.google.com/assets/colab-badge.svg"
+       alt="Open In Colab"
+       title="Click here to run the notebook in Google Colab">
 </a>

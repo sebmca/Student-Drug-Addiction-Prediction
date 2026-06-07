@@ -1,6 +1,5 @@
-The dataset is collected from different Sources, they are 
-1. UCI [University of California, Irvine], Central Excise and 
-   from different De-Addiction centres
+The dataset is collected from different Hospitals and De-Addiction centres in KERALA STATE
+1. 
 
 2. Total 75,000 records and 19 columns are in the Dataset
 

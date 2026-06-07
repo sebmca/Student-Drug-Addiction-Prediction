@@ -6,4 +6,5 @@ Total Number of Columns       = 20<br>
 The columns contain <br> StudentID,ALT_Blood,GGT_Blood,Glucose_Blood,Creatine_Blood,THC_Positive_Urine,Cocaine_Positive_Urine,Opioid_Positive_Urine,Urine_pH,Attendance,Marks_drop,Assignment_delays,Frequent_leave,Mood_Swings,Peer_Group_Issues,Disciplinary_Actions,Counseling_Referral,Social_Media_Overuse,Gaming_Addiction,Addiction_Label <br>
 ## Full Column explanation in Dataset_Details.txt<br>
 ### How to Operate this Software:- follow the steps below<br>
+Click the Option, Open in Colab-->Inside Colab click Run All-->Go to Single Input Prediction / Bulk Prediction<br>
 

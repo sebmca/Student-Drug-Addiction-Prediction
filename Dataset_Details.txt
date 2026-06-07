@@ -1,0 +1,44 @@
+The dataset is collected from different Sources, they are 
+1. UCI [University of California, Irvine], Central Excise and 
+   from different De-Addiction centres
+
+2. Total 75,000 records and 19 columns are in the Dataset
+
+3. The columns contain, StudentID,ALT_Blood,GGT_Blood,Glucose_Blood,Creatine_Blood,THC_Positive_Urine,Cocaine_Positive_Urine,Opioid_Positive_Urine,Urine_pH,Attendance,Marks_drop,Assignment_delays,Frequent_leave,Mood_Swings,Peer_Group_Issues,Disciplinary_Actions,Counseling_Referral,Social_Media_Overuse,Gaming_Addiction,Addiction_Label
+
+4. Blood Related Tests are as follows:-
+
+   a) ALT_Blood - (Alanine Aminotransferase) is an enzyme found mostly in the liver. It’s released into the bloodstream when liver cells are damaged. If someone has elevated ALT levels, doctors will typically consider the individual's full medical history, including their drug use and behavioral patterns, to determine the underlying cause and guide treatment.   
+   
+   b) GGT_Blood - Gamma-glutamyl transferase (GGT) is another important enzyme found in the liver, as well as in other organs like the kidneys, pancreas, and spleen.
+   Sensitive to Alcohol: GGT is particularly sensitive to alcohol consumption. Even moderate to heavy drinking can raise GGT levels significantly.
+   
+   c) Glucose_Blood - Stimulant Drugs (e.g., cocaine, methamphetamine), increase adrenaline and cortisol, leading to: Increased blood glucose levels (hyperglycemia), Suppressed insulin secretion
+   
+   d) Creatine_Blood - Chronic use of certain drugs (especially opioids, stimulants, or MDMA) can damage kidneys. This results in elevated blood creatinine, signaling reduced kidney function.
+
+5. Urine Related Tests - Categorical except Urine_pH
+
+   e) THC_Positive_Urine - Tetrahydrocannabinol
+	It’s the main psychoactive compound in drugs.
+	
+   f) Cocaine_Positive_Urine - A Cocaine_Positive_Urine test result means that cocaine or its metabolites have been detected in the person's urine, indicating regular of  cocaine. It affects, Heart rate, Liver/kidney markers (ALT, Creatinine), behavioral patterns	
+   
+   g) Opioid_Positive_Urine - Opioids are a class of drugs that act on the opioid receptors in the brain to relieve pain, but they are also highly addictive. A positive opioid urine test indicates that a person's urine contains opioids or their metabolites, which is a strong indicator of regular opioid use — legal or illegal.
+   
+   h) Urine_pH(pH -(potential of Hydrogen) - Urine pH does not detect specific drugs, but it is indirectly relevant in addiction and toxicology contexts:Certain substances can alter pH naturally:
+   Methamphetamine/MDMA may lower pH (more acidic), 
+   Chronic alcohol use may affect renal function and pH
+   Infections (common in IV drug users) may cause more alkaline urine
+   
+6. Behavioral Patterns - All Categorical --> 0-No, 1-Yes
+
+Attendance,Marks_drop,Assignment_delays,Frequent_leave,Mood_Swings,Peer_Group_Issues,Disciplinary_Actions,Counseling_Referral,Social_Media_Overuse,Gaming_Addiction
+
+Prediction Column - After String indexer the categorical flags
+                    are as follows:-
+
+Addiction_Label - "Addicted / Not Addicted" --> 0-Addicted,
+                                                1-Not Addicted
+												
+

@@ -7,6 +7,7 @@ The columns contain <br> StudentID,ALT_Blood,GGT_Blood,Glucose_Blood,Creatine_Bl
 ## Full Column explanation in Dataset_Details.txt<br>
 ### How to Operate this Software:- follow the steps below<br>
 Click the Option, Open in Colab-->Inside Colab click Run All-->Go to Single Input Prediction / Bulk Prediction<br>
+Then wait One or Two minutes till you get the Dashboard
 
 The user can click all the other options Load Data, EDA Analysis.....<br>
 

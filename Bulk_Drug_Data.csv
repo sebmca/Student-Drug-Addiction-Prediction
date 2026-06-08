@@ -1,0 +1,13 @@
+Name,ALT_Blood,GGT_Blood,Glucose_Blood,Creatine_Blood,THC_Positive_Urine,Cocaine_Positive_Urine,Opioid_Positive_Urine,Urine_pH,Attendance,Marks_drop,Assignment_delays,Frequent_leave,Mood_Swings,Peer_Group_Issues,Disciplinary_Actions,Counseling_Referral,Social_Media_Overuse,Gaming_Addiction
+JOSE-A,46,82,121,1.6,No,No,No,5.4,0,0,0,0,1,1,1,1,1,1
+DELNA-NA,57,27,93,1.09,No,No,No,5.9,0,0,0,1,0,0,0,0,1,0
+THOMAS-NA,92,57,70,1.07,No,No,No,6,0,0,1,0,0,1,1,1,1,0
+RASHEED-A,43,118,70,0.89,Yes,No,No,6,0,0,1,0,0,1,0,1,0,1
+AVINASH-NA,49,137,112,1.09,Yes,Yes,Yes,6.7,0,0,1,0,0,1,0,0,0,0
+PRABATH-A,100,150,170,2.5,Yes,Yes,Yes,10,1,1,1,1,1,1,1,1,1,1
+JEENA-A,64,10,125,1.28,Yes,No,Yes,6,1,0,1,0,0,0,0,1,1,1
+LINUS-NA,13,53,144,1.25,No,No,No,6.2,0,0,0,0,0,1,1,0,1,0
+BADHU-A,119,51,113,1.49,Yes,No,No,5.4,0,0,1,0,0,1,0,1,0,1
+LOKESH-NA,30,100,84,1.03,No,No,No,6.4,0,0,0,0,1,1,0,0,1,0
+TANUSHREE-NA,61,179,121,1.1,No,No,Yes,6,0,0,0,0,0,0,1,0,0,1
+AFSAL-A,71,10,70,1.54,No,No,No,6.4,1,0,0,0,1,1,1,1,0,1
